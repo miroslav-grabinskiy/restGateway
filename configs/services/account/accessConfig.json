@@ -1,0 +1,4 @@
+{
+  "game": "gameTokenToAccountService",
+  "wallet": "walletTokenToAccountService"
+}

@@ -1,0 +1,9 @@
+{
+  "routes": [{
+    "method": "GET",
+    "url": "/game/stat"
+  }, {
+    "method": "POST",
+    "url": "/game/play"
+  }]
+}

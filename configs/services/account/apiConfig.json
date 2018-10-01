@@ -1,0 +1,9 @@
+{
+  "routes": [{
+    "method": "GET",
+    "url": "/account/info"
+  }, {
+    "method": "POST",
+    "url": "/account/create"
+  }]
+}

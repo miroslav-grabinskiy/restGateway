@@ -1,0 +1,10 @@
+{
+  "routes": [{
+    "method": "GET",
+    "url": "/wallet/balance",
+    "redirectUrl": "/wallet/redirectedBalance/"
+  }, {
+    "method": "POST",
+    "url": "/wallet/deposit"
+  }]
+}

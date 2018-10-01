@@ -1,0 +1,19 @@
+{
+  "name": "restGateway",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "startTestMode": "node testMode.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
